@@ -1,1 +1,1 @@
-# furry-engine
+The jar application file calculates the graph of Instantaneous piston speed relative to average piston speed vs crank angle(A) for a given value of R(r/a), where r- connecting rod length, a - crankshaft offet, of a IC engine
