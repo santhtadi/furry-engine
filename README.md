@@ -1,1 +1,1 @@
-The jar application file calculates the graph of Instantaneous piston speed relative to average piston speed vs crank angle(A) for a given value of R(r/a), where r- connecting rod length, a - crankshaft offet, of an IC engine
+The jar application file generates the graph of Instantaneous piston speed relative to average piston speed vs crank angle for a given value of R(r/a), where r- connecting rod length, a - crankshaft offet, of an IC engine
