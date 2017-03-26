@@ -1,2 +1,1 @@
 The jar application file generates the graph of Instantaneous piston speed relative to average piston speed vs crank angle for a given value of R(r/a), where r- connecting rod length, a - crankshaft offet, of an IC engine. 
-Working on updating the application to calculate cylinder bore, average piston speed, clearance volume, brake power, indicated power, break mean effective pressure, indicated mean effective pressure, friction mean effective pressure.
